@@ -2,12 +2,12 @@
 Changes the status icons to wrap around the avatar. Shape can be changed inside the theme file.
 
 - - -
-BetterDiscord Download: [https://betterdiscord.net/ghdl?id=3361](https://betterdiscord.net/ghdl?id=3361)  
-Powercord Install: `git clone https://github.com/DiscordStyles/RadialStatus`
+ 
+Powercord Install: `git clone https://github.com/Hayden-Co/BetterStatus`
 - - -
 
 ![members](https://i.imgur.com/4zZU4iw.jpg)
 
 ## License
 
-See the [LICENSE](https://github.com/DiscordStyles/RadialStatus/blob/master/LICENSE.md) file for license rights and limitations (MIT).
+See the [LICENSE](https://github.com/Hayden-Co/BetterStatus/blob/master/LICENSE.md) file for license rights and limitations (MIT).
